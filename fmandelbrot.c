@@ -1,6 +1,6 @@
-/*  #######*/main(k){for(float x,y,u,v,w,z;(y+=.05)<
-/*  #      */2;puts(""))for(x=-2;(x+=.03)<1;putchar(
-/* ####    */k>26?32:97+k))for(u=v=w=z=k=0;k++<99&w+
-/* #       */z<4;z=v*v,w=u*u)v=2*u*v+y-1,u=w-z+x;}//
+/*  #######*/main(k){for(float x,y,u,v,z;++y<40;puts
+/*  #      */(""))for(x=-2;x+=.03,x<1;putchar(k+32))
+/* ####    */for(u=v=0,k=27;z=v*v,--k&&u*u+z<4;u=u*u
+/* #       */-z+x)v=2*u*v+y/20-1;}//Python Developer
 /*#        Finian Blackett | Information Security */
-/*--------=[ xxxxxxxxxxxxxxx@xxxxx.com ]=---------*/
+/*--------=[ finian.blackett@gmail.com ]=---------*/
