@@ -1,1 +1,1 @@
-double x,y,u,v,w,z;int i,j,k;int main(){for(j=0;j<33;j++){y=1-j*2./33;for(i=0;i<80;i++){u=v=w=z=0;x=i*.0375-2;for(k=1;k<2e3&&(w+z<4);k++){v=2*u*v+y;u=w-z+x;w=u*u;z=v*v;}putchar(k>26?32:97+k/3);}putchar(10);}}
+main(k){for(float x,y,u,v,w,z;(y+=.05)<2;puts(""))for(x=-2;(x+=.03)<1;putchar(k>26?32:97+k))for(u=v=w=z=k=0;k++<99&w+z<4;z=v*v,w=u*u)v=2*u*v+y-1,u=w-z+x;}
