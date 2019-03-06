@@ -4,3 +4,4 @@
 /*  #       */k=1;k<2e3&&(w+z<4);k++){v=2*u*v+y;u=w-
 /* #        */z+x;w=u*u;z=v*v;}putchar(k>26?32:97+k/
 /*Finian Blackett Infosec*/3);}putchar(10);}}/*GCC*/
+/*--------=[ finian.blackett@gmail.com ]=---------*/
