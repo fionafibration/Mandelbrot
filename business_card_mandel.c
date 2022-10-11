@@ -7,6 +7,6 @@
    k=27;z=v*v,--
   k&&u*u+z
   <4;u=u*u 
- -z+x)v//  finian.blackett@gmail.com
+ -z+x)v//  fiona1729@gmail.com
  =2*u*v+y
-/20-1;}//  Python Dev | Infosecurity
+/20-1;}//  Stable Homotopy & PLT
